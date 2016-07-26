@@ -28,13 +28,13 @@ function BeaconMonitor() {
     //even when app is not active 
 	this.monitorBeacons = [
         {
-            identifier:'ib1',
+            identifier:'Viaparque_115',
             uuid:'B1E2B7AC-2839-48BE-BA40-120B9A469180',
             major:1,
             minor:115
         },
         {
-            identifier:'ib2',
+            identifier:'Viaparque_115',
             uuid:'B1E2B7AC-2839-48BE-BA40-120B9A469180',
             major:1,
             minor:125
@@ -86,13 +86,13 @@ function BeaconMonitor() {
         },
         */
         {
-            identifier:'onyx1',
+            identifier:'Viaparque_125',
             uuid:'B1E2B7AC-2839-48BE-BA40-120B9A469180',
             major:1,
             minor:125
         },
         {
-            identifier:'onyx2',
+            identifier:'Viaparque_115',
             uuid:'B1E2B7AC-2839-48BE-BA40-120B9A469180',
             major:1,
             minor:115
